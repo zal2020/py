@@ -1,3 +1,4 @@
+print("Salam!!")
 vorodi=input()
 bozorg=vorodi.upper()
 kochack=vorodi.lower()
