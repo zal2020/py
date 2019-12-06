@@ -12,3 +12,4 @@ if u>l:
     print(vorodi.upper())
 else:
     print(vorodi.lower())
+print(5)
